@@ -1,1 +1,1 @@
-# exercise_classification
+This project implements a multi-modal physical exercise classification system using the MEx dataset, focusing on accelerometer and depth camera data from 10 subjects. It aims to develop user-independent models to recognize 7 exercise types, exploring data preparation, feature extraction, and various fusion techniques (unimodal, feature-level, decision-level). The primary goal is to address real-world challenges in multi-modal data fusion, with performance evaluated using F1 macro scores.
